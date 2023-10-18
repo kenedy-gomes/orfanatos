@@ -3,6 +3,10 @@
     min-height: 100vh;
 }
 
+#whatsapp{
+    text-decoration: none;
+}
+
 aside.sidebar {
     position: fixed;
     height: 100%;
